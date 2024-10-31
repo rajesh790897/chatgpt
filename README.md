@@ -35,7 +35,7 @@ Node.js and npm installed
 OpenAI API Key (Get yours from OpenAI)
 
 # Clone the Repository
-git clone https://github.com/rajesh790898/chatgpt.git
+git clone https://github.com/rajesh790897/chatgpt.git
 cd chatgpt
 
 # Install Dependencies
