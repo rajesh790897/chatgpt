@@ -58,6 +58,7 @@ Open your browser and go to http://localhost:3000 to use the chat interface.
 # Project Structure
 Here's an overview of the project's file structure:
 chatgpt-clone
+
 ├── index.html        # The main HTML file for the chat interface
 
 ├── style.css         # CSS file for styling the chat interface
