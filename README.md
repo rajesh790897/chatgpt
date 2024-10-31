@@ -20,8 +20,8 @@ License
 # Demo
 You can view a live demo of the project (optional if hosted on a platform like Vercel or Netlify).
 
-Add demo link here if available.
-
+[Add demo link here if available.
+](https://rajesh790897.github.io/chatgpt/)
 # Technologies Used
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js, Express
